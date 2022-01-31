@@ -1,7 +1,7 @@
-<link rel="canonical" href="https://google.com" />
+<link rel="canonical" href="https://levelup.gitconnected.com/passing-parameters-to-a-net-c-method-388badb7c095?sk=b5c21b7c4a8aca9a150ba64b5ba17825" />
 
-# Sending Parameters to a .NET C# Method
-### Different ways of sending parameters to a .NET C# method.
+# Passing Parameters to a .NET C# Method
+### Different ways of passing parameters to a .NET C# method.
 
 <p align="center">
   <img src="https://cdn-images-1.medium.com/max/2600/1*0cTQd03_0KqZTTXs4CdsbQ.jpeg">
@@ -10,7 +10,7 @@
 <br/>
 
 <p>
-This article is mainly about defining the ways of sending a parameter to a .NET C# method while calling it. In simple words, it is about the famous Ref and Val thing.
+This article is mainly about defining the ways of passing a parameter to a .NET C# method while calling it. In simple words, it is about the famous Ref and Val thing.
 </p>
 
 <p>
@@ -61,4 +61,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://google.com
+[Article]: https://levelup.gitconnected.com/passing-parameters-to-a-net-c-method-388badb7c095?sk=b5c21b7c4a8aca9a150ba64b5ba17825

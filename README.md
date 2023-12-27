@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/passing-parameters-to-a-net-c-method-388badb7c095?sk=b5c21b7c4a8aca9a150ba64b5ba17825" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/passing-parameters-to-a-net-c-method" />
 
 # Passing Parameters to a .NET C# Method
 ### Different ways of passing parameters to a .NET C# method.
 
 <p align="center">
-  <img src="https://cdn-images-1.medium.com/max/2600/1*0cTQd03_0KqZTTXs4CdsbQ.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_25bd3bc242684b40a91b1c37fba9e69e~mv2.png/v1/fill/w_828,h_553,al_c,q_90,enc_auto/488a99_25bd3bc242684b40a91b1c37fba9e69e~mv2.png">
 </p>
 
 <br/>
@@ -61,4 +61,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/passing-parameters-to-a-net-c-method-388badb7c095?sk=b5c21b7c4a8aca9a150ba64b5ba17825
+[Article]: https://www.developmentsimplyput.com/post/passing-parameters-to-a-net-c-method
